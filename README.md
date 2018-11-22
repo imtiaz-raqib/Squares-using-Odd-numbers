@@ -1,4 +1,4 @@
-# Squares-using-Odd-numbers
+# Squares-using-odd-numbers
 This C program generates a table of integer squares (max 100) which are calculated using odd numbers relation.\
 The user inputs the number of entries he/she wants in the table.
 
