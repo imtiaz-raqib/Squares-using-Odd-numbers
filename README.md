@@ -4,9 +4,11 @@ The user inputs the number of entries he/she wants in the table.
 
 The sqaures are calculated using the odd relation between the squares as we know that:
 
+________________________________________________________________________
 1 is a square number (= 1 × 1)\
 1 + 3 = 4, and 4 is a square number (= 2 × 2)\
 1 + 3 + 5 = 9, and 9 is a square number (= 3 × 3) etc!
+________________________________________________________________________
 
 The result is outputted in the terminal in a tabular format such as:
 
