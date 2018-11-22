@@ -10,6 +10,8 @@ The sqaures are calculated using the odd relation between the squares as we know
 
 The result is outputted in the terminal in a tabular format such as:
 
+-------------------------------------------------------------------------
+
 imtiazud@Yanet:Squares ~> gcc -Wall squareWithOdd.c -o square\
 imtiazud@Yanet:Squares ~> ./square\
 This program prints a table of squares.
@@ -29,3 +31,5 @@ Enter number of entries in table (max 100):  5
      -------------------
      |    5   |   25   |
      -------------------
+
+--------------------------------------------------------------------------
